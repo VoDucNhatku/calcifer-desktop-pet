@@ -1,0 +1,17 @@
+{
+  "algorithm": "sha256",
+  "sha256": {
+    "assets/contact-sheet.png": "79e3c79641f2c307a1c4c4f7be7b4041adaa41c9e59f82b4b63a812dffe082ae",
+    "assets/frames/00.png": "3f5dbbfd99626c8c36e8e558f439c34cae9f38b003a976d1a5474122ce483c7e",
+    "assets/frames/01.png": "19df490e1f0d82f3ec92a2f74dbda887e79665b49c00357c4d045e1115a0ac7f",
+    "assets/frames/02.png": "0817a63de2ba0aeddbbf24c9c9743e9e25f2ba1a9d360827c93267d2fb201e0e",
+    "assets/frames/03.png": "64b5a4fc63f81b29f98189d8b5a150d0525cf2012ede6973a7030c127942b190",
+    "assets/frames/04.png": "633472a55ca033c831d811f969cf13d97604808d467e3cb5043b71404784370d",
+    "assets/frames/05.png": "5b3dde25261146d15c230eb18614b8058cfcd552a56d171f387c3f63d71aaa39",
+    "assets/preview.apng": "99f696eb064f5060b386dbf8d942cb56923adff1be4cf3592a8b8eb7b4a0c335",
+    "assets/preview.gif": "03b47c443a9c006d9f772f25e3a7d24f5d4573812661221e49b63a03d8107ccb",
+    "assets/preview.mp4": "731ed2d24cc0ff53ca6b00dfc7e78e4eb3e191c3fcec12dcbe55ed5e1bda781a",
+    "assets/spritesheet.png": "56762b1fdb21434c6b397368a3a8f117eb967f8d3d61e74c537d384d8d1ab12c",
+    "pet.json": "c4ee9ea8048f2052c8eb8db0ee42c71442803e150081a493d1bb8299098443d9"
+  }
+}
